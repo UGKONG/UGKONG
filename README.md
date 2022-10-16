@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/MYSQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=Express&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/NODE-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
