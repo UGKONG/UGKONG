@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   
-  <p style="position:absolute; top:0; left:0; width:100%; height:100%;"></p>
+  <span style="position:absolute; top:0; left:0; width:100%; height:100%;"></span>
 </p>
 
   
