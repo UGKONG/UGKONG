@@ -8,7 +8,7 @@
 <!-- 아이콘: https://simpleicons.org/ -->
 <!-- 배지: https://shields.io/ -->
 
-<p align="center">
+<p align="center" style="position:relative">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp 
@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/WEBPACK-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  
+  <p style="position:absolute; top:0; left:0; width:100%; height:100%;"></p>
 </p>
 
   
