@@ -30,20 +30,17 @@
   
   <span style="position:absolute; top:0; left:0; width:100%; height:100%;"></span>
 </p>
-
   
 <br>
 
-
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://velog.io/@jsw9330"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
+  <a href="https://until.blog/@jsw9330"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://until.blog/@jsw9330"/></a>&nbsp
   <a href="https://www.instagram.com/sanguk_98/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
 </p>
+
 <br>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
-</p>
-
-[![블로그 최신 글](https://ryc04otowj.execute-api.ap-northeast-2.amazonaws.com/blog-posts-svg?username=jsw9330)](https://until.blog/@jsw9330)
+<a href="https://ryc04otowj.execute-api.ap-northeast-2.amazonaws.com/blog-posts-svg?username=jsw9330" target="_balnk">
+  <img style="width: 100%;" src="https://ryc04otowj.execute-api.ap-northeast-2.amazonaws.com/blog-posts-svg?username=jsw9330" />
+</a>
